@@ -1,8 +1,8 @@
-1.Quranic Verse Recitation Feature Extraction Using
+1. Quranic Verse Recitation Feature Extraction Using
 Mel-Frequency Cepstral Coefficient (MFCC)
 1Zaidi Razak, 2Noor Jamaliah Ibrahim, 3Emran Mohd Tamil, 4Mohd Yamani Idna Idris, 5Mohd. Yakub @ Zulkifli Bin Mohd Yusoff 1-4Faculty of Computer Science and Information Technology, University of Malaya 5Department of Al-Quran & Al-Hadith, Academy of Islamic Studies, University of Malaya
 
-2.Developing Speech Recognition System for Quranic
+2. Developing Speech Recognition System for Quranic
 Verse Recitation Learning Software
 B.Putra1, B.T. Atmaja2, D.Prananto3
 Department of Engineering Physics
