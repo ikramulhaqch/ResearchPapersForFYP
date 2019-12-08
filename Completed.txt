@@ -11,3 +11,7 @@ Sepuluh Nopember Institutes of Technology
 3. Quran Reciter Identification: A Deep Learning Approach (2018)
 Information Technology University
 Punjab, Pakistan
+
+4. Using Deep Learning for Automatically Determining Correct Application of Basic QuranicRecitation Rules (Apr, 2018)
+Mahmoud Al-Ayyoub, Nour Alhuda Damer, and Ismail Hmeidi
+Jordan University of Science and Technology, Jordan
