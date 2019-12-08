@@ -7,3 +7,7 @@ Department of Engineering Physics
 Sepuluh Nopember Institutes of Technology
 60111 Surabaya, Indonesia
 {1budiman.fgi, 2btatmaja,3dprananto}@gmail.com
+
+3. Quran Reciter Identification: A Deep Learning Approach (2018)
+Information Technology University
+Punjab, Pakistan
